@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/YT-emojis/precache-manifest.9279da407d7c402b10a4dfc93f4eaae3.js"
+  "/YT-emojis/precache-manifest.cd8534a78df9abe8d864b67399dbc35b.js"
 );
 
 self.addEventListener('message', (event) => {

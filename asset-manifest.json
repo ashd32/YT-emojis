@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/YT-emojis/static/css/main.fd071038.chunk.css",
-    "main.js": "/YT-emojis/static/js/main.739e358a.chunk.js",
-    "main.js.map": "/YT-emojis/static/js/main.739e358a.chunk.js.map",
+    "main.js": "/YT-emojis/static/js/main.65482ab8.chunk.js",
+    "main.js.map": "/YT-emojis/static/js/main.65482ab8.chunk.js.map",
     "runtime-main.js": "/YT-emojis/static/js/runtime-main.e48902d1.js",
     "runtime-main.js.map": "/YT-emojis/static/js/runtime-main.e48902d1.js.map",
     "static/js/2.c9850175.chunk.js": "/YT-emojis/static/js/2.c9850175.chunk.js",
     "static/js/2.c9850175.chunk.js.map": "/YT-emojis/static/js/2.c9850175.chunk.js.map",
     "index.html": "/YT-emojis/index.html",
-    "precache-manifest.9279da407d7c402b10a4dfc93f4eaae3.js": "/YT-emojis/precache-manifest.9279da407d7c402b10a4dfc93f4eaae3.js",
+    "precache-manifest.cd8534a78df9abe8d864b67399dbc35b.js": "/YT-emojis/precache-manifest.cd8534a78df9abe8d864b67399dbc35b.js",
     "service-worker.js": "/YT-emojis/service-worker.js",
     "static/css/main.fd071038.chunk.css.map": "/YT-emojis/static/css/main.fd071038.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.e48902d1.js",
     "static/js/2.c9850175.chunk.js",
     "static/css/main.fd071038.chunk.css",
-    "static/js/main.739e358a.chunk.js"
+    "static/js/main.65482ab8.chunk.js"
   ]
 }

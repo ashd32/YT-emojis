@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5284fed594f49963c52e6319eb2029f0",
+    "revision": "fc0d668763d379b9c616e70960dda6aa",
     "url": "/YT-emojis/index.html"
   },
   {
-    "revision": "55c24eedaff10356628b",
+    "revision": "d7526e823e9ba3a67657",
     "url": "/YT-emojis/static/css/main.fd071038.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/YT-emojis/static/js/2.c9850175.chunk.js"
   },
   {
-    "revision": "55c24eedaff10356628b",
-    "url": "/YT-emojis/static/js/main.739e358a.chunk.js"
+    "revision": "d7526e823e9ba3a67657",
+    "url": "/YT-emojis/static/js/main.65482ab8.chunk.js"
   },
   {
     "revision": "54faf626af10537a9a67",
